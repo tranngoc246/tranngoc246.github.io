@@ -8,6 +8,9 @@ h1{
 }
 
 .content{
+	width: 100%;
+	height: 100%;
+	background-image: url(images/hinh_nen.jpg);
 	margin: 10px;
 	border: 2px solid gray;
 	padding: 10px;
